@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{47A6D18D-2CDC-4B8B-A63D-84A155E29C34}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TechnicalChallengeFrameworkApiTest/UnitTest1.cs">
+    <Files>
+      <File FileName="TechnicalChallengeFrameworkApiTest/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TechnicalChallengeFrameworkApi" expanded="True">
+            <Node name="TechnicalChallengeFrameworkApiTest" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TechnicalChallengeFrameworkApiTest FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TechnicalChallengeFrameworkApi PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
